@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 
 
 # Load your scraped dataset
-df = pd.read_csv("samsung_galaxy_s23_price_history.csv")
+df = pd.read_csv("samsung-galaxy-s24-5g-ai-smartphone-marble-gray-8gb-128gb-storage_amazon_price_history.csv")
 
 # Ensure chronological order
 df = df.sort_values("date")

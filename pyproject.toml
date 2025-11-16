@@ -14,5 +14,6 @@ dependencies = [
     "scikit-learn==1.7.2",
     "selenium>=4.38.0",
     "tensorflow==2.20.0",
+    "textblob>=0.19.0",
     "webdriver-manager>=4.0.2",
 ]

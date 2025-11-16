@@ -7,3 +7,4 @@ openpyxl
 scikit-learn==1.7.2
 matplotlib
 tensorflow==2.20.0
+textblob
